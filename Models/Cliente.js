@@ -1,4 +1,8 @@
-// Alunos: Pedro Wilson e Marcos Vinicius
+/* 
+  Alunos:
+   Pedro Wilson Rodrigues de Lima - 2020267
+   Marcos Vinicius Fernandes Alves - 2021030
+*/
 
 const mongoose = require('mongoose');
 
